@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Elisandro Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
+# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> I'm Elisandro Sousa 
 
 ### Web Developer | Seeking Opportunities Globally
 
