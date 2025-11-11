@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Elisandro Sousa
+# Hi there! 👋 I'm Elisandro Sousa <img src="https://media.giphy.com/media/LmN8APkDQzlQG57f7M/giphy.gif" width="40"/>
 
 ### Web Developer | Seeking Opportunities Globally
 
