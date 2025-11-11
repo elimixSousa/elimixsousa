@@ -3,6 +3,7 @@
 ### Web Developer | Seeking Opportunities Globally
 
 I hold a bachelor's degree in Computer Science, I'm currently working as a Web/System Developer and I'm pursuing two postgraduate degrees in Artificial Inteligence and in Web Application Development.
+
 I'm a passionate developer focused on building elegant and efficient digital solutions. Currently leveraging my skills in **React.js, Node.js, JavaScript, APIs REST, PHP, MySQL, PostgreSQL**, and I am actively exploring challenging remote roles where I can contribute to impactful projects.
 
 ---
