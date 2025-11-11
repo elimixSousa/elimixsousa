@@ -35,4 +35,4 @@ I'm always open to discussing new projects, challenging opportunities, or just s
 | **Portfolio** | https://elidev-portfolio.netlify.app/ |
 | **LinkedIn** | https://www.linkedin.com/in/elisandro-sousa-1b9bb4276/ |
 | **Email** | eli.techs7@gmail.com |
-| **GitHub** | @elimixsousa - https://github.com/elimixsousa |
+| **GitHub** | https://github.com/elimixsousa |
