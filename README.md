@@ -13,6 +13,8 @@ A showcase of the technologies I work with regularly:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,postgresql,git,github,vscode,vite)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,postgresql,git,github,vscode,vite&theme=dark)](https://skillicons.dev)
+
 ---
 
 ## 📈 My GitHub Activity
